@@ -1,3 +1,5 @@
+// Grocero with TypeScript
+
 import "./reset.css";
 import "./style.css";
 
